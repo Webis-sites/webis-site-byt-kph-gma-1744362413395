@@ -1,11 +1,114 @@
 {
-  "timestamp": "2025-04-11T09:07:18.759Z",
+  "timestamp": "2025-04-11T09:08:03.156Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 17,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Root layout component with RTL configuration"
+    },
+    {
+      "name": "NavigationBar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL navigation bar with logo and menu items"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL hero section with headline, description, and booking CTA for a Hebrew coffee shop"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "RTL about section highlighting the coffee shop's experience and expertise"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "RTL services section showcasing the coffee shop's offerings"
+    },
+    {
+      "name": "GallerySection",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "RTL gallery/portfolio section displaying the coffee shop's ambiance and offerings"
+    },
+    {
+      "name": "BookingSection",
+      "type": "booking",
+      "status": "pending",
+      "description": "RTL booking system with form for reservations"
+    },
+    {
+      "name": "FashionTrendsSection",
+      "type": "custom",
+      "status": "pending",
+      "description": "RTL section highlighting fashion trends and coffee pairings"
+    },
+    {
+      "name": "EventsSection",
+      "type": "events",
+      "status": "pending",
+      "description": "RTL section for upcoming fashion and coffee events"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "RTL contact section with map and information"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "RTL footer with navigation, social links, and copyright"
+    },
+    {
+      "name": "Button",
+      "type": "ui",
+      "status": "pending",
+      "description": "Reusable RTL-aware button component"
+    },
+    {
+      "name": "Card",
+      "type": "ui",
+      "status": "pending",
+      "description": "Reusable RTL-aware card component"
+    },
+    {
+      "name": "Form",
+      "type": "ui",
+      "status": "pending",
+      "description": "Reusable RTL-aware form component with validation"
+    },
+    {
+      "name": "MenuPage",
+      "type": "page",
+      "status": "pending",
+      "description": "RTL menu page displaying coffee and food offerings"
+    },
+    {
+      "name": "GalleryPage",
+      "type": "page",
+      "status": "pending",
+      "description": "RTL gallery page with expanded portfolio"
+    },
+    {
+      "name": "BookingPage",
+      "type": "page",
+      "status": "pending",
+      "description": "RTL booking page with comprehensive reservation system"
+    }
+  ],
   "repoName": "webis-site-byt-kph-gma-1744362413395"
 }
