@@ -31,6 +31,10 @@
   --shadow-color: rgba(255, 107, 107, 0.3);
 
   --box-shadow: 5px 5px 15px rgba(0,0,0,0.05), -5px -5px 15px rgba(255,255,255,0.8);
+
+  --card-blur: 10px;
+  --card-border-opacity: 0.2;
+  --animation-duration: 0.5s;
 }
 
     html {
