@@ -2,10 +2,13 @@
 
 import React from 'react';
 import Layout from '@/components/Layout';
+import NavigationBar from '@/components/NavigationBar';
 
 export default function HomePage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <NavigationBar />
+      
       <Layout />
       
       <main className="flex-1 container mx-auto px-4 py-8">
