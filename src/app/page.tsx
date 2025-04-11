@@ -5,10 +5,13 @@ import Layout from '@/components/Layout';
 import NavigationBar from '@/components/NavigationBar';
 import HeroSection from '@/components/HeroSection';
 import AboutSection from '@/components/AboutSection';
+import ServicesSection from '@/components/ServicesSection';
 
 export default function HomePage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <ServicesSection />
+      
       <AboutSection />
       
       <HeroSection />
