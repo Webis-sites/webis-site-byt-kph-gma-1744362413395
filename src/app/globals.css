@@ -35,6 +35,10 @@
   --card-blur: 10px;
   --card-border-opacity: 0.2;
   --animation-duration: 0.5s;
+
+  --shadow-sm: 5px 5px 15px #d1d1d1, -5px -5px 15px #ffffff;
+  --shadow-md: 10px 10px 20px #d1d1d1, -10px -10px 20px #ffffff;
+  --glass-bg: rgba(255, 255, 255, 0.15);
 }
 
     html {
