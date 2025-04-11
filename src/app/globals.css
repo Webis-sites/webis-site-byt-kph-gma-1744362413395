@@ -29,6 +29,8 @@
 
   --blur-amount: 8px;
   --shadow-color: rgba(255, 107, 107, 0.3);
+
+  --box-shadow: 5px 5px 15px rgba(0,0,0,0.05), -5px -5px 15px rgba(255,255,255,0.8);
 }
 
     html {
